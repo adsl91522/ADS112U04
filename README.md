@@ -1,4 +1,4 @@
-### lis2dw12 driver sample dev in NCS (Zephyr) environment
+### ads112u04 driver sample dev in NCS (Zephyr) environment
 ----
 ### Zephyr SDK environment
 - Install toolchain
